@@ -3,7 +3,6 @@
 
 #define MAX_LENGTH 150
 
-// Перечисление для выбора поля сортировки
 enum SortField {
     SORT_BY_AUTHOR = 1,
     SORT_BY_TITLE = 2,

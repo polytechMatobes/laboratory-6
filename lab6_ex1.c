@@ -16,7 +16,7 @@ void loadFromFile(struct Book** library, int* count, int* capacity);
 int main() {
     struct Book* library = NULL;  
     int count = 0;                 
-    int capacity = 0;              
+    int capacity = 0;               
     
     int choice;
     do {
