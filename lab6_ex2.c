@@ -158,7 +158,7 @@ void addBook(struct Book** library, int* count, int* capacity) {
     }
     
     struct Book newBook;
-    char buffer[200];
+    char buffer[150];
     
     printf("Введите данные о книге:\n");
     
